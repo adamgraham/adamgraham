@@ -5,9 +5,9 @@
 </h1>
 
 <h2>
-  As the founder of <a href="https://www.zigurous.com/">Zigurous</a>, I make games with a <br>
+  As the founder of <a href="https://github.com/zigurous">Zigurous</a>, I make games with a <br>
   focus on self-expression, creative thinking,<br>
-  and cooperative-play.
+  and procedural generation.
 </h2>
 
 <h3>
