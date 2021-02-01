@@ -6,13 +6,13 @@
 
 <h2>
   I founded the indie game development studio <a href="https://github.com/zigurous">Zigurous</a>.<br>
-  We create game assets and tutorials for the community<br>
-  to help developers learn and make games easier.
+  We are building a suite of game assets and tutorials<br>
+  to help developers grow their skills and make games easier.
 </h2>
 
 <h2>
   I love exploring procedurally generated creative work.<br>
-  My speciality is creating flexible and customizable<br>
+  My specialty is creating flexible and customizable<br>
   systems, tools, and assets.
 </h2>
 
