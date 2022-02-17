@@ -11,9 +11,9 @@
 </h2>
 
 <h2>
-  I love exploring procedurally generated creative work.<br>
   My specialty is creating flexible and customizable<br>
-  systems, tools, and assets.
+  systems, tools, and assets, but I also love exploring<br>
+  procedurally generated creative work.
 </h2>
 
 <h3>
