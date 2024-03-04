@@ -1,7 +1,7 @@
 <h1>
   Hello, my name is Adam. 👋 <br>
   I am a game developer and software engineer <br>
-  fueled by a passion for art and design.
+  inspired by a passion for art, design, and engineering.
 </h1>
 
 <h2>
@@ -13,7 +13,7 @@
 <h2>
   My specialty is creating flexible and customizable<br>
   systems, tools, and assets, but I also love exploring<br>
-  procedurally generated creative work.
+  procedurally generated creative works.
 </h2>
 
 <h3>
