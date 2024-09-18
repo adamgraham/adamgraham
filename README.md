@@ -17,7 +17,7 @@
 </h2>
 
 <h3>
-  Check out all of my work on my <a href="https://adamgraham.io">Portfolio</a>, <br>
+  Check out all of my work on my <a href="https://adamgraham.github.io">Portfolio</a>, <br>
   connect with me on <a href="https://discord.gg/DdYyWVb">Discord</a> and <a href="https://twitter.com/zigurous">Twitter</a>, <br>
   or ⭐ my repos here on GitHub.
 </h3>
