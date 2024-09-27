@@ -1,6 +1,6 @@
 <h1>
   Hello, my name is Adam. 👋 <br>
-  I am a game developer and software engineer <br>
+  I am a software engineer and game developer <br>
   inspired by a passion for art, design, and engineering.
 </h1>
 
