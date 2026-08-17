@@ -2,7 +2,7 @@
   Hello! 👋 My name is Adam.<br>
   I am a software engineer and game developer<br>
   inspired by the blending of art, design, and engineering<br>
-  to create best in class user experiences.
+  to create memorable experiences.
 </h1>
 
 <h2>
